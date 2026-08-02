@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "installationRoot": "%ProgramData%\\WindowsMaintenanceOrchestrator",
+  "taskPrefix": "Windows Maintenance Orchestrator",
+  "dailyAt": "12:30",
+  "weeklyDay": "Saturday",
+  "weeklyAt": "13:00",
+  "startupDelaySeconds": 90,
+  "logonDelaySeconds": 120,
+  "selfHealHours": 6,
+  "tempRetentionDays": 7,
+  "reportRetentionDays": 45
+}
+
