@@ -1,0 +1,13 @@
+reports/
+Reports/
+*.log
+*.tmp
+*.zip
+*.sha256
+policy.json
+games.json
+schedule.json
+backup.json
+cleanup.json
+.vscode/
+
